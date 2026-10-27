@@ -23,7 +23,7 @@ Lo que haría:
 
 Respondo rápido y le entrego el primer borrador en 3 días, con 2 rondas de ajustes incluidas.
 
-Mi propuesta: 50 USD por todo el paquete.
+Mi propuesta: 35 USD por todo el paquete.
 
 ¿A qué tipo de cargo o sector apunta el candidato?
 
@@ -34,7 +34,7 @@ _≈ 164 palabras._
 
 ## Campos de la postulación
 
-- **Valor:** 50 USD. A tarifa colombiana (25.000 COP/h) equivale a unas 8 horas: entrevista (1 h), hoja de vida (4–5 h), carta (1 h) y ajustes (1–2 h).
+- **Valor:** 35 USD. El promedio de las otras propuestas es de 40 USD: quedar un poco por debajo, y con la carta y la adaptación incluidas, te da ventaja siendo nueva en Workana sin regalar tu trabajo. Son unas 5–6 horas a tu tarifa colombiana, así que mantén la entrevista corta y el alcance cerrado (1 hoja de vida, 1 carta, 2 rondas de ajustes).
 - **Plazo:** 3 días para el primer borrador.
 
 ## Si el cliente responde: preguntas para la entrevista con el candidato
