@@ -74,6 +74,11 @@ Se presenta como **"desarrollo de negocios independiente"** (no mencionar networ
 ### Auxiliar del laboratorio de simulación — Universidad Nacional, 2017
 - Soporte a estudiantes y docentes con el software y el hardware del laboratorio.
 
+### Redacción de hojas de vida (servicio freelance)
+- Creo hojas de vida optimizadas para pasar filtros **ATS** (programas que leen y filtran los CV antes que un reclutador).
+- Adapto una hoja de vida a una vacante específica y redacto cartas de presentación.
+- Ejemplo propio: adapté mi perfil a varios cargos distintos (ventas, customer success, asistente virtual y una versión en inglés).
+
 ## Formación
 
 - Ingeniera electrónica — Universidad Nacional de Colombia (2016–2020)

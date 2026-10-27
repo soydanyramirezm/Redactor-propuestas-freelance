@@ -18,6 +18,7 @@ Plantillas y propuestas para postularme a proyectos en **Workana** (plan Premium
 - [Traducción y transcripción ES↔EN](plantillas/traduccion.md)
 - [Asistente virtual y soporte administrativo](plantillas/asistente-virtual.md)
 - [Automatización industrial y traducción técnica](plantillas/automatizacion-industrial.md)
+- [Hojas de vida optimizadas para ATS y cartas de presentación](plantillas/hojas-de-vida-ats.md)
 
 ## Flujo para cada proyecto nuevo
 
