@@ -33,18 +33,18 @@ Desde 2024 hago desarrollo de negocios en remoto: contacto a más de 100 prospec
 Con sus leads:
 - Los contacto de inmediato con llamada, audio y mensaje, antes de que se enfríen.
 - Escucho qué quiere lograr cada persona y manejo las objeciones sin presionar, siempre con una propuesta de cita concreta.
-- Registro cada lead en el CRM con su próximo seguimiento y les envío un reporte semanal de citas agendadas.
+- Registro cada lead en el CRM y les envío un reporte semanal de citas.
 
 Además, tengo el mismo horario de Miami, soy bilingüe español/inglés y trabajo en su horario laboral. Como bachiller técnica en salud, aprendo rápido sus servicios y respeto que las recomendaciones médicas son de sus profesionales.
 
-Les propongo una fase de prueba de 250 USD (unas 16 horas a 15 USD/h) para medir las citas agendadas. Si quieren, les envío un audio de ejemplo para que escuchen mi tono.
+Les propongo una fase de prueba de 250 USD (unas 16 horas a 15 USD/h) para medir las citas agendadas. Si quieren, les envío un audio de ejemplo.
 
 ¿Cuántos leads reciben al día y qué CRM usan?
 
 Daniela
 ```
 
-_≈ 170 palabras._
+_≈ 179 palabras._
 
 ## Campos de la postulación
 
