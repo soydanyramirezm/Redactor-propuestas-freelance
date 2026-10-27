@@ -26,12 +26,12 @@ Todo lo que digo en una propuesta debe salir de aquí. **No inventes métricas n
 
 ## Enlaces
 
-- Portafolio en Canva 1: https://canva.link/1jx69fii3vxyj6a
-- Portafolio en Canva 2: https://canva.link/36g253ke5ehau0h
+- Portafolio en Canva, **español**: https://canva.link/1jx69fii3vxyj6a
+- Portafolio en Canva, **inglés**: https://canva.link/36g253ke5ehau0h
 - TikTok: https://www.tiktok.com/@soydanyramirezm (los guiones de todos mis videos son míos)
 - Instagram: https://www.instagram.com/soydanyramirezm
 
-> ⚠️ Workana no permite compartir datos de contacto (correo, teléfono, WhatsApp, redes) antes de contratar. Ver las reglas en la guía antes de pegar enlaces.
+> Los enlaces de Canva **sí** van en las propuestas de edición de video y creación de contenido, según el idioma de la oferta. TikTok e Instagram **no**: Workana no permite compartir redes ni datos de contacto antes de contratar.
 
 ## Experiencia (cómo nombrarla en propuestas)
 

@@ -24,5 +24,5 @@ Plantillas y propuestas para postularme a proyectos en **Workana** (plan Premium
 1. Lee la oferta completa y subraya **la frase que más le importa al cliente**.
 2. Elige la plantilla del servicio y del idioma en que el cliente escribió la oferta.
 3. Personaliza los campos `[entre corchetes]` usando solo datos de `perfil/perfil-maestro.md`.
-4. Revisa con la lista de revisión de la guía.
+4. Revisa con la lista de revisión de la guía: **máximo 180 palabras** y, si es de contenido o video, el enlace de Canva del idioma correcto.
 5. Guarda la propuesta final en `propuestas/AAAA-MM-DD_cliente_servicio.md` y anota el resultado (respondió / entrevista / ganada / perdida).

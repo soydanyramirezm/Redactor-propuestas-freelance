@@ -1,59 +1,51 @@
 # Plantilla — Automatización industrial, documentación y traducción técnica
 
-**Úsala para:** programación de PLC Siemens (Step 7 / TIA Portal), planos en AutoCAD Electrical, documentación técnica, traducción de manuales y fichas técnicas, apoyo en mantenimiento.
+**Úsala para:** programación de PLC Siemens (Step 7 / TIA Portal), planos en AutoCAD Electrical, documentación técnica, traducción de manuales y fichas técnicas.
 
-**Pruebas clave del perfil:** 3 años como ingeniera de automatización en Ternium · sistema automatizado de cambio de formato que ahorra 5 minutos por cambio y mejora la seguridad · mantenimiento preventivo y correctivo · doble ingeniería (electrónica y eléctrica).
+**Pruebas para elegir (usa solo 1 o 2):** 3 años como ingeniera de automatización en Ternium · sistema de cambio de formato que ahorra 5 min por cambio y mejora la seguridad · mantenimiento preventivo y correctivo · doble ingeniería.
 
-> 💡 Es el nicho con **menos competencia** en Workana. Úsalo también para traducir contenido técnico, donde tu formación te da mucha ventaja.
+> 💡 Es el nicho con **menos competencia** en Workana.
+
+**Extensión:** 120–180 palabras.
 
 ---
 
 ## Español
 
-Hola, ¿qué tal? Vi que necesitan [tarea técnica] para [equipo/proceso]. En automatización, lo que más cuesta no es que funcione el primer día, sino que quede bien documentado y que cualquiera lo pueda mantener después.
+Hola, ¿qué tal? Vi que necesitan [tarea técnica] para [equipo/proceso]. Puedo ayudarles con experiencia real en planta.
 
-Soy ingeniera electrónica y eléctrica, con 3 años como ingeniera de automatización en Ternium Colombia. Allí desarrollé un sistema automatizado de cambio de formato en una línea de producción que **ahorra 5 minutos en cada cambio** y reduce las intervenciones manuales, lo que mejora la seguridad del personal. También gestioné el mantenimiento preventivo y correctivo de la planta.
+Soy ingeniera electrónica y eléctrica, con 3 años en automatización en Ternium Colombia, donde desarrollé un sistema automatizado de cambio de formato que **ahorra 5 minutos en cada cambio** y mejora la seguridad del personal.
 
-**Cómo lo abordaría:**
-1. Reviso [planos / programa actual / documentación] y aclaro el alcance con ustedes.
-2. [Desarrollo / documento / traduzco] por etapas, con entregas parciales.
-3. Entrego [archivos / programa comentado / manual] listos para usar y mantener.
+Cómo lo abordaría:
+- Revisar [planos / programa / documentación] y confirmar el alcance.
+- [Desarrollar / documentar / traducir] por etapas, con entregas parciales.
+- Entregar [archivos / programa comentado / manual] listos para mantener.
 
-**Por qué yo:**
-- Experiencia real en planta con Siemens Step 7, TIA Portal y AutoCAD Electrical.
-- **Rapidez y comunicación:** les cuento el avance en cada etapa.
-- **Disponibilidad** en su horario.
-- Bilingüe: puedo documentar o traducir en español e inglés.
+Manejo Siemens Step 7, TIA Portal y AutoCAD Electrical. Respondo rápido y trabajo en su horario.
 
-Tarifa: [15 USD/h | 25.000 COP/h | por proyecto según el alcance].
+Tarifa: [15 USD/h | 25.000 COP/h | por proyecto].
 
-¿Qué [versión de software / PLC / estándar] están usando?
+¿Qué [versión de software / PLC] están usando?
 
-Saludos,
 Daniela
 
 ---
 
 ## English
 
-Hi! I see you need [technical task] for [equipment/process]. In automation, the hard part isn't getting it to work on day one: it's documenting it well so anyone can maintain it later.
+Hi! I see you need [technical task] for [equipment/process]. I can help, backed by hands-on plant experience.
 
-I'm an electrical and electronic engineer with 3 years as an automation engineer at Ternium Colombia, a large steel manufacturer. There I built an automated production-line changeover system that **saves 5 minutes per changeover** and reduces manual intervention, which improves staff safety. I also managed preventive and corrective maintenance.
+I'm an electrical and electronic engineer with 3 years in automation at Ternium Colombia, where I built an automated changeover system that **saves 5 minutes per changeover** and improves staff safety.
 
-**My approach:**
-1. Review [drawings / current program / documentation] and confirm the scope with you.
-2. [Develop / document / translate] in stages, with partial deliveries.
-3. Deliver [files / commented program / manual] that are ready to use and maintain.
+My approach:
+- Review [drawings / program / documentation] and confirm scope.
+- [Develop / document / translate] in stages with partial deliveries.
+- Deliver [files / commented program / manual] that are easy to maintain.
 
-**Why me:**
-- Hands-on plant experience with Siemens Step 7, TIA Portal and AutoCAD Electrical.
-- **Fast, clear communication:** updates at every stage.
-- **Available during your business hours** (Eastern Time).
-- Bilingual: I can document or translate in Spanish and English.
+I work with Siemens Step 7, TIA Portal and AutoCAD Electrical, respond fast and work during your business hours (Eastern Time).
 
-Rate: [15 USD/hour | per project depending on scope].
+Rate: [15 USD/hour | per project].
 
-Which [software version / PLC / standard] are you using?
+Which [software version / PLC] are you using?
 
-Best,
 Daniela

@@ -26,37 +26,25 @@
 ## Texto para pegar en Workana
 
 ```text
-Hola, ¿qué tal? Leí su proyecto y me quedé con esta frase: "que se enfoque en conseguir resultados, no solo en contestar mensajes". Así es exactamente como trabajo.
+Hola, ¿qué tal? Me quedé con esta frase de su proyecto: "que se enfoque en conseguir resultados, no solo en contestar mensajes". Así trabajo.
 
-Desde 2024 me dedico al desarrollo de negocios de forma independiente y 100 % remota: contacto a más de 100 prospectos por semana por WhatsApp, llamadas y redes sociales, les hago seguimiento y los acompaño hasta el cierre. No espero a que me escriban: yo inicio la conversación y la mantengo avanzando hasta que la persona toma una decisión.
+Desde 2024 hago desarrollo de negocios en remoto: contacto a más de 100 prospectos por semana por WhatsApp y llamadas, les hago seguimiento y los acompaño hasta el cierre.
 
-Cómo trabajaría con sus leads:
+Con sus leads:
+- Los contacto de inmediato con llamada, audio y mensaje, antes de que se enfríen.
+- Escucho qué quiere lograr cada persona y manejo las objeciones sin presionar, siempre con una propuesta de cita concreta.
+- Registro cada lead en el CRM con su próximo seguimiento y les envío un reporte semanal de citas agendadas.
 
-1. Contacto inmediato: un lead de campaña se enfría en pocas horas. Lo llamo lo antes posible y, si no contesta, le dejo un audio corto y un mensaje por WhatsApp.
-2. Conversación, no guion: pregunto qué quiere lograr la persona (verse más descansada, prepararse para un evento, sentirse mejor con su cuerpo) y lo conecto con el tratamiento o la promoción que le corresponde.
-3. Objeciones sin presión: precio, miedo, "lo voy a pensar"... los resuelvo con empatía e información clara y siempre termino con una propuesta concreta: "¿le queda mejor el martes o el jueves para su valoración?".
-4. Seguimiento constante: cada lead queda en el CRM con su próxima acción y su fecha. Nadie se queda sin respuesta.
-5. Reporte semanal: leads contactados, citas agendadas y las objeciones más frecuentes. Esto también les sirve para mejorar sus campañas.
+Además, tengo el mismo horario de Miami, soy bilingüe español/inglés y trabajo en su horario laboral. Como bachiller técnica en salud, aprendo rápido sus servicios y respeto que las recomendaciones médicas son de sus profesionales.
 
-Por qué yo:
+Les propongo una fase de prueba de 250 USD (unas 16 horas a 15 USD/h) para medir las citas agendadas. Si quieren, les envío un audio de ejemplo para que escuchen mi tono.
 
-- Rapidez, comunicación y disponibilidad: estoy en Colombia, con el mismo horario de Miami (solo hay una hora de diferencia cuando allá rige el horario de verano), y trabajo en su horario laboral.
-- Bilingüe español/inglés: también puedo atender a los leads que prefieran hablar en inglés. Actualmente trabajo con una empresa de EE. UU. dando clases bilingües.
-- Acompaño antes y después de la compra. En estética, donde los tratamientos son por sesiones, eso se traduce en clientes que vuelven y que recomiendan.
-- Soy bachiller técnica en salud y nutrición e ingeniera de formación: aprendo rápido los servicios, los explico de forma sencilla y soy muy organizada con la información de cada lead.
-- Tengo claro el límite: las recomendaciones médicas son de sus profesionales. Mi trabajo es informar, resolver dudas y llevar a la persona a su cita de valoración.
+¿Cuántos leads reciben al día y qué CRM usan?
 
-Mi experiencia en ventas no ha sido en un med spa, pero llego con un método probado de prospección y seguimiento. Con la capacitación que ustedes brindan puedo empezar de inmediato.
-
-Sobre el presupuesto: mi tarifa es de 15 USD por hora. Les propongo empezar con una fase de prueba de 250 USD (unas 16 horas), para que midan resultados en citas agendadas. Si funciona, seguimos con un esquema por horas o mensual que les convenga.
-
-Si quieren, les envío un audio de ejemplo de cómo contactaría a un lead nuevo de su clínica, para que escuchen mi tono antes de decidir.
-
-Una pregunta para preparar el arranque: ¿cuántos leads reciben al día, más o menos, y qué CRM utilizan?
-
-Quedo atenta,
 Daniela
 ```
+
+_≈ 170 palabras._
 
 ## Campos de la postulación
 
