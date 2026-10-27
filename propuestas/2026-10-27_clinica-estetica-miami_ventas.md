@@ -37,7 +37,7 @@ Con sus leads:
 
 Además, tengo el mismo horario de Miami, soy bilingüe español/inglés y trabajo en su horario laboral. Como bachiller técnica en salud, aprendo rápido sus servicios y respeto que las recomendaciones médicas son de sus profesionales.
 
-Les propongo una fase de prueba de 250 USD (unas 16 horas a 15 USD/h) para medir las citas agendadas. Si quieren, les envío un audio de ejemplo.
+Les propongo una fase de prueba de 170 USD (unas 11 horas a 15 USD/h) para medir las citas agendadas. Si quieren, les envío un audio de ejemplo.
 
 ¿Cuántos leads reciben al día y qué CRM usan?
 
@@ -48,7 +48,7 @@ _≈ 179 palabras._
 
 ## Campos de la postulación
 
-- **Valor de la propuesta:** 250 USD (máximo del rango; está justificado por el plan de trabajo). Si quieres ser más competitiva sin bajar la tarifa, ofrece 200 USD por unas 13 horas.
+- **Valor de la propuesta:** 170 USD (unas 11 horas a 15 USD/h; queda en la mitad del rango, así que es competitivo sin bajar la tarifa).
 - **Plazo:** 2 semanas (fase de prueba).
 
 ## Si el cliente responde: audio de muestra para un lead (≈ 30 segundos)
