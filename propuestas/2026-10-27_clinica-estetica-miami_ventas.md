@@ -96,3 +96,13 @@ Pidieron un **audio de menos de un minuto** presentándome y contando mi experie
 - Sonríe mientras hablas (se nota en la voz), en un lugar sin ruido y con el celular cerca de la boca.
 - Habla con calma y haz una pausa corta entre cada bloque.
 - Envíalo por el chat de Workana como archivo de audio; no pases la conversación a WhatsApp.
+
+### Versión final del audio (con los ajustes de Daniela)
+
+> ¡Hola, Javier! Qué gusto saludarte. Soy Daniela Ramírez y te hablo desde Colombia.
+>
+> Desde hace más de dos años trabajo en ventas y atención al cliente de forma remota. Cada semana converso con más de cien personas por WhatsApp, llamadas, LinkedIn y redes sociales, y las acompaño desde el primer mensaje hasta que toman su decisión… y también después, porque para mí la relación no termina con la venta. Así he logrado clientes fieles, recompras y muchos referidos.
+>
+> Mi forma de vender es escuchar primero: entender qué quiere lograr cada persona y ayudarla a dar el paso, sin presionarla. Además, soy bachiller técnica en salud, así que me siento muy cómoda en este sector y aprendo rápido.
+>
+> Me encantaría ser esa voz cálida y amigable que reciba a los pacientes de la clínica. ¡Muchas gracias por la oportunidad!
