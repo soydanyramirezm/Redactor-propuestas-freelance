@@ -103,6 +103,6 @@ Pidieron un **audio de menos de un minuto** presentándome y contando mi experie
 >
 > Desde hace más de dos años trabajo en ventas y atención al cliente de forma remota. Cada semana converso con más de cien personas por WhatsApp, llamadas, LinkedIn y redes sociales, y las acompaño desde el primer mensaje hasta que toman su decisión… y también después, porque para mí la relación no termina con la venta. Así he logrado clientes fieles, recompras y muchos referidos.
 >
-> Mi forma de vender es escuchar primero: entender qué quiere lograr cada persona y ayudarla a dar el paso, sin presionarla. Además, soy bachiller técnica en salud, así que me siento muy cómoda en este sector y aprendo rápido.
+> Para mí lo más importante es crear relaciones genuinas con cada cliente. Por eso escucho primero, entiendo qué quiere lograr y lo ayudo a dar el paso, sin presionarlo. Además, soy bachiller técnica en salud, así que me siento muy cómoda en este sector y aprendo rápido.
 >
 > Me encantaría ser esa voz cálida y amigable que reciba a los pacientes de la clínica. ¡Muchas gracias por la oportunidad!
