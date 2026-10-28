@@ -97,12 +97,12 @@ Pidieron un **audio de menos de un minuto** presentándome y contando mi experie
 - Habla con calma y haz una pausa corta entre cada bloque.
 - Envíalo por el chat de Workana como archivo de audio; no pases la conversación a WhatsApp.
 
-### Versión final del audio (con venta directa en persona y relaciones genuinas, ≈ 55 s)
+### Versión final del audio (≈ 60 s: grabar a buen ritmo)
 
-> ¡Hola, Javier! Soy Daniela Ramírez y te hablo desde Colombia.
+> ¡Hola, Javier! Qué gusto saludarte. Soy Daniela Ramírez y te hablo desde Colombia.
 >
-> Desde hace más de dos años trabajo en venta directa y atención al cliente, en persona y a distancia. Tratar con la gente cara a cara me enseñó a conectar de verdad. Cada semana hablo con más de cien personas por WhatsApp, llamadas y redes, y las acompaño hasta que toman su decisión… y también después, porque la relación no termina con la venta. Así he logrado clientes fieles, recompras y referidos.
+> Desde hace más de dos años trabajo en venta directa y atención al cliente, en persona y a distancia. Tratar con la gente cara a cara me enseñó a conectar de verdad. Cada semana hablo con más de cien personas por WhatsApp, llamadas, LinkedIn y redes, y las acompaño hasta que toman su decisión… y también después, porque la relación no termina con la venta. Así he logrado clientes fieles, recompras y referidos.
 >
-> Para mí lo más importante es crear relaciones genuinas. Por eso escucho primero y ayudo a cada persona a dar el paso, sin presionarla. Además, soy bachiller técnica en salud, así que me siento muy cómoda en este sector.
+> Para mí lo más importante es crear relaciones genuinas. Por eso escucho primero y ayudo a cada persona a dar el paso, sin presionarla. Además, soy bachiller técnica en salud, así que me siento muy cómoda en este sector y aprendo rápido.
 >
-> Me encantaría ser esa voz cálida que reciba a los pacientes de la clínica. ¡Gracias por la oportunidad!
+> Me encantaría ser esa voz cálida y amigable que reciba a los pacientes de la clínica. ¡Gracias por la oportunidad!
