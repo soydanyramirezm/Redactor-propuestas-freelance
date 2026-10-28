@@ -97,12 +97,12 @@ Pidieron un **audio de menos de un minuto** presentándome y contando mi experie
 - Habla con calma y haz una pausa corta entre cada bloque.
 - Envíalo por el chat de Workana como archivo de audio; no pases la conversación a WhatsApp.
 
-### Versión final del audio (con los ajustes de Daniela)
+### Versión final del audio (con venta directa en persona y relaciones genuinas, ≈ 55 s)
 
-> ¡Hola, Javier! Qué gusto saludarte. Soy Daniela Ramírez y te hablo desde Colombia.
+> ¡Hola, Javier! Soy Daniela Ramírez y te hablo desde Colombia.
 >
-> Desde hace más de dos años trabajo en ventas y atención al cliente de forma remota. Cada semana converso con más de cien personas por WhatsApp, llamadas, LinkedIn y redes sociales, y las acompaño desde el primer mensaje hasta que toman su decisión… y también después, porque para mí la relación no termina con la venta. Así he logrado clientes fieles, recompras y muchos referidos.
+> Desde hace más de dos años trabajo en venta directa y atención al cliente, en persona y a distancia. Tratar con la gente cara a cara me enseñó a conectar de verdad. Cada semana hablo con más de cien personas por WhatsApp, llamadas y redes, y las acompaño hasta que toman su decisión… y también después, porque la relación no termina con la venta. Así he logrado clientes fieles, recompras y referidos.
 >
-> Para mí lo más importante es crear relaciones genuinas con cada cliente. Por eso escucho primero, entiendo qué quiere lograr y lo ayudo a dar el paso, sin presionarlo. Además, soy bachiller técnica en salud, así que me siento muy cómoda en este sector y aprendo rápido.
+> Para mí lo más importante es crear relaciones genuinas. Por eso escucho primero y ayudo a cada persona a dar el paso, sin presionarla. Además, soy bachiller técnica en salud, así que me siento muy cómoda en este sector.
 >
-> Me encantaría ser esa voz cálida y amigable que reciba a los pacientes de la clínica. ¡Muchas gracias por la oportunidad!
+> Me encantaría ser esa voz cálida que reciba a los pacientes de la clínica. ¡Gracias por la oportunidad!

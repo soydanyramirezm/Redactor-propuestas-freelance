@@ -42,6 +42,8 @@ Se presenta como **"desarrollo de negocios independiente"** (no mencionar networ
 - Asesoría antes y después de la compra, lo que genera **referidos y recompras**.
 - Presentaciones individuales en vivo, en español e inglés, explicando conceptos de negocio y finanzas.
 - Onboarding de clientes en plataformas y servicios; gestiono mi propia cartera de cuentas.
+- **Venta directa en persona y a distancia:** además de lo digital, he conocido y atendido clientes cara a cara. En propuestas se puede decir "venta directa" (sin nombrar la empresa).
+- Valor personal: **crear relaciones genuinas** con clientes y prospectos.
 - Herramientas: WhatsApp Business, LinkedIn (prospección orgánica), Instagram, TikTok, Zoom/Meet.
 
 ### Creadora de contenido (independiente) — abr. 2024 – actualidad
