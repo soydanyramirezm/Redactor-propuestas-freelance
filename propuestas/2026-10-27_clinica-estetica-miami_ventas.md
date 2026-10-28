@@ -6,7 +6,7 @@
 - **Presupuesto publicado:** 100–250 USD
 - **Idioma:** español (el cliente escribió la oferta en español)
 - **Plantilla base:** [ventas-y-atencion-al-cliente](../plantillas/ventas-y-atencion-al-cliente.md)
-- **Estado:** pendiente de enviar
+- **Estado:** enviada. El cliente respondió el 2026-10-28 pidiendo un audio de presentación (menos de 1 minuto).
 - **Resultado:** _(completar: respondió / entrevista / ganada / perdida, y por qué)_
 
 ## Análisis de la oferta
@@ -68,3 +68,31 @@ Grábalo con una sonrisa (se nota en la voz), sin ruido de fondo y a un ritmo tr
 - Tarifa por hora (15 USD/h) más un **bono por cita asistida**, que alinea tus incentivos con los suyos.
 - Paquete mensual por bloque de horas diarias (por ejemplo, 4 h/día × 22 días = 88 h ≈ 1.320 USD/mes).
 - Evita trabajar **solo por comisión** al principio: tú no controlas la calidad de los leads.
+
+## Respuesta del cliente (2026-10-28)
+
+Pidieron un **audio de menos de un minuto** presentándome y contando mi experiencia en ventas y atención al cliente. Valoran mucho la calidez, la cercanía y la forma de conectar con las personas. El cliente tutea, así que respondo de tú.
+
+### Guion del audio (≈ 50 segundos)
+
+> ¡Hola! Qué gusto saludarte. Soy Daniela Ramírez y te hablo desde Barranquilla, Colombia.
+>
+> Desde hace más de dos años trabajo en ventas y atención al cliente de forma remota. Cada semana converso con más de cien personas por WhatsApp y por llamada, y las acompaño desde el primer mensaje hasta que toman su decisión… y también después, porque para mí la relación no termina con la venta. Eso me ha traído muchos referidos.
+>
+> Mi forma de vender es escuchar primero: entender qué quiere lograr cada persona y ayudarla a dar el paso, sin presionarla. Además, soy bachiller técnica en salud, así que me siento muy cómoda en este sector.
+>
+> Me encantaría ser la voz cálida que reciba a los pacientes de la clínica. ¡Muchas gracias por la oportunidad!
+
+### Mensaje para acompañar el audio
+
+```text
+¡Hola! Muchas gracias por tu respuesta y por la oportunidad 😊 Aquí te comparto mi audio. Quedo atenta a cualquier pregunta. ¡Que tengas un lindo día!
+```
+
+### Consejos para grabarlo
+
+- Ensáyalo 3 o 4 veces y luego dilo con tus palabras, sin leer: debe sonar natural.
+- Cronométralo: entre 45 y 55 segundos. Si te pasas, quita la frase de los referidos.
+- Sonríe mientras hablas (se nota en la voz), en un lugar sin ruido y con el celular cerca de la boca.
+- Habla con calma y haz una pausa corta entre cada bloque.
+- Envíalo por el chat de Workana como archivo de audio; no pases la conversación a WhatsApp.
