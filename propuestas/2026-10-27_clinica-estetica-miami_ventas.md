@@ -6,7 +6,7 @@
 - **Presupuesto publicado:** 100–250 USD
 - **Idioma:** español (el cliente escribió la oferta en español)
 - **Plantilla base:** [ventas-y-atencion-al-cliente](../plantillas/ventas-y-atencion-al-cliente.md)
-- **Estado:** enviada. El cliente respondió el 2026-10-28 pidiendo un audio de presentación (menos de 1 minuto).
+- **Estado:** en negociación con Pivelia Health & Beauty (Javier). Ofrecieron 100 USD de base + 5 USD por cita efectiva; contraoferta: 200 USD + 7 USD.
 - **Resultado:** _(completar: respondió / entrevista / ganada / perdida, y por qué)_
 
 ## Análisis de la oferta
@@ -106,3 +106,28 @@ Pidieron un **audio de menos de un minuto** presentándome y contando mi experie
 > Para mí lo más importante es crear relaciones genuinas. Por eso escucho primero y ayudo a cada persona a dar el paso, sin presionarla. Además, soy bachiller técnica en salud, así que me siento muy cómoda en este sector y aprendo rápido.
 >
 > Me encantaría ser esa voz cálida y amigable que reciba a los pacientes de la clínica. ¡Gracias por la oportunidad!
+
+## Oferta de Pivelia (2026-10-29)
+
+- **Cliente:** Pivelia Health & Beauty (Miami), contacto: Javier.
+- **Oferta:** 100 USD/mes de base + 5 USD por cita efectiva. Remoto, horario flexible, ellos dan los leads y la capacitación.
+- **Cita efectiva:** con depósito → el paciente asiste; sin depósito → asiste y paga un tratamiento.
+- **Pagos en Workana:** la base va como proyecto de precio fijo con depósito en garantía; las comisiones, como extensión del proyecto cada 15 días, con un registro compartido de citas.
+
+### Comisiones (estimadas)
+
+- **Workana:** 20 % sobre los primeros 300 USD con el cliente, 10 % entre 301 y 3.000 USD y 5 % desde 3.000 USD.
+- **Payoneer → Bancolombia:** cerca del 2 % por la conversión, más una posible tarifa fija por retiro.
+
+### Contraoferta (meta: 1.500 USD libres con 10 citas diarias)
+
+Base 200 USD + 7 USD por cita efectiva, 22 días al mes. Primer mes:
+
+| Citas/día | Pivelia paga | Llega a Bancolombia (≈) | Con la oferta original (≈) |
+|---|---|---|---|
+| 3 | 662 USD | 554 USD | 350 USD |
+| 5 | 970 USD | 826 USD | 544 USD |
+| 8 | 1.432 USD | 1.234 USD | 835 USD |
+| 10 | 1.740 USD | 1.505 USD | 1.029 USD |
+
+Plan B si rechazan la base: mantener 100 USD + 7,50 USD por cita (≈ 1.514 USD libres con 10 citas diarias).
