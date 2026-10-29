@@ -131,3 +131,16 @@ Base 200 USD + 7 USD por cita efectiva, 22 días al mes. Primer mes:
 | 10 | 1.740 USD | 1.505 USD | 1.029 USD |
 
 Plan B si rechazan la base: mantener 100 USD + 7,50 USD por cita (≈ 1.514 USD libres con 10 citas diarias).
+
+### Contraoferta alternativa (meta: 1.300 USD libres con 10 citas diarias)
+
+Base 200 USD + 6 USD por cita efectiva. Primer mes:
+
+| Citas/día | Pivelia paga | Llega a Bancolombia (≈) |
+|---|---|---|
+| 3 | 596 USD | 496 USD |
+| 5 | 860 USD | 729 USD |
+| 8 | 1.256 USD | 1.078 USD |
+| 10 | 1.520 USD | 1.311 USD |
+
+Plan B: mantener 100 USD + 6,50 USD por cita (≈ 1.320 USD libres con 10 citas diarias).
