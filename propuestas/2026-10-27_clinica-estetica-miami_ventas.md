@@ -144,3 +144,25 @@ Base 200 USD + 6 USD por cita efectiva. Primer mes:
 | 10 | 1.520 USD | 1.311 USD |
 
 Plan B: mantener 100 USD + 6,50 USD por cita (≈ 1.320 USD libres con 10 citas diarias).
+
+### Mensaje de contraoferta enviado (2026-10-29)
+
+```text
+¡Hola, Javier! Gracias de nuevo por la propuesta 😊 Me encanta la idea de trabajar por resultados con Pivelia.
+
+Revisando los números, por la comisión de la plataforma se va hasta un 20 % de lo que recibo. Por eso te propongo un pequeño ajuste:
+
+• Base de 200 USD mensuales
+• 6 USD por cada cita efectiva, con las mismas condiciones que me compartiste
+
+Con 10 citas efectivas diarias, cada paciente que asiste y paga les costaría menos de 7 USD, y yo podría dedicarme de lleno a atender a sus pacientes con todo el cariño que merecen.
+
+Como me contabas, a mí también me encantaría crecer con ustedes y convertirme en parte del equipo a largo plazo. Si te parece, empezamos con este esquema el primer mes y al final revisamos juntos los resultados y los siguientes pasos.
+
+¡Quedo atenta!
+Daniela
+```
+
+### Para la revisión del primer mes
+
+Llevar: citas agendadas, citas efectivas y tasa de asistencia. Proponer algo concreto: comisión más alta, bono por meta de citas o más responsabilidades.
