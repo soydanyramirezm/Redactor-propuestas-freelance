@@ -6,7 +6,7 @@
 - **Presupuesto publicado:** 100–250 USD
 - **Idioma:** español (el cliente escribió la oferta en español)
 - **Plantilla base:** [ventas-y-atencion-al-cliente](../plantillas/ventas-y-atencion-al-cliente.md)
-- **Estado:** en negociación con Pivelia Health & Beauty (Javier). Ofrecieron 100 USD de base + 5 USD por cita efectiva; contraoferta: 200 USD + 7 USD.
+- **Estado:** contraoferta enviada el 2026-10-29: 200 USD de base + 6 USD por cita efectiva. Si la rechazan, ofrecer como concesión 100 USD + 6,50 USD por cita.
 - **Resultado:** _(completar: respondió / entrevista / ganada / perdida, y por qué)_
 
 ## Análisis de la oferta
